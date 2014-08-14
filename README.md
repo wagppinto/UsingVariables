@@ -19,3 +19,7 @@ The second project for iOS pre-course using variables.
 - Declare a new varriable (bodyMassIndex with the type CGFloat)
 - And set it to (weight / (height * height)) * 703
 - Log the weight to the console
+
+### Completion:
+- It should print that the BMI is 25.799444
+- Feel free to play with the height and weight and see what gets printed
