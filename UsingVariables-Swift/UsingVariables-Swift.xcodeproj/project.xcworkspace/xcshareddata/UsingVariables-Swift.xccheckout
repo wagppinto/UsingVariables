@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7EFA8D37-4C8B-4345-84B4-3AF5121FCF7F</string>
+	<string>5920935C-605B-4D3F-A6D5-AA018BA3CD64</string>
 	<key>IDESourceControlProjectName</key>
-	<string>UsingVariables</string>
+	<string>UsingVariables-Swift</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9B3DEB32F6DB02DDDDAC1456AB7C2CB319C3F92C</key>
 		<string>https://github.com/DevMountain/UsingVariables.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>UsingVariables/UsingVariables.xcodeproj</string>
+	<string>UsingVariables-Swift/UsingVariables-Swift.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9B3DEB32F6DB02DDDDAC1456AB7C2CB319C3F92C</key>

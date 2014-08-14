@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "71E54CA2199D3BD3009FF939"
-               BuildableName = "UsingVariables.app"
-               BlueprintName = "UsingVariables"
-               ReferencedContainer = "container:UsingVariables.xcodeproj">
+               BlueprintIdentifier = "71E54D17199D3CDC009FF939"
+               BuildableName = "UsingVariables-Objc.app"
+               BlueprintName = "UsingVariables-Objc"
+               ReferencedContainer = "container:UsingVariables-Objc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "71E54CAF199D3BD3009FF939"
-               BuildableName = "UsingVariablesTests.xctest"
-               BlueprintName = "UsingVariablesTests"
-               ReferencedContainer = "container:UsingVariables.xcodeproj">
+               BlueprintIdentifier = "71E54D27199D3CDC009FF939"
+               BuildableName = "UsingVariables-ObjcTests.xctest"
+               BlueprintName = "UsingVariables-ObjcTests"
+               ReferencedContainer = "container:UsingVariables-Objc.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "71E54CAF199D3BD3009FF939"
-               BuildableName = "UsingVariablesTests.xctest"
-               BlueprintName = "UsingVariablesTests"
-               ReferencedContainer = "container:UsingVariables.xcodeproj">
+               BlueprintIdentifier = "71E54D27199D3CDC009FF939"
+               BuildableName = "UsingVariables-ObjcTests.xctest"
+               BlueprintName = "UsingVariables-ObjcTests"
+               ReferencedContainer = "container:UsingVariables-Objc.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71E54CA2199D3BD3009FF939"
-            BuildableName = "UsingVariables.app"
-            BlueprintName = "UsingVariables"
-            ReferencedContainer = "container:UsingVariables.xcodeproj">
+            BlueprintIdentifier = "71E54D17199D3CDC009FF939"
+            BuildableName = "UsingVariables-Objc.app"
+            BlueprintName = "UsingVariables-Objc"
+            ReferencedContainer = "container:UsingVariables-Objc.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71E54CA2199D3BD3009FF939"
-            BuildableName = "UsingVariables.app"
-            BlueprintName = "UsingVariables"
-            ReferencedContainer = "container:UsingVariables.xcodeproj">
+            BlueprintIdentifier = "71E54D17199D3CDC009FF939"
+            BuildableName = "UsingVariables-Objc.app"
+            BlueprintName = "UsingVariables-Objc"
+            ReferencedContainer = "container:UsingVariables-Objc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71E54CA2199D3BD3009FF939"
-            BuildableName = "UsingVariables.app"
-            BlueprintName = "UsingVariables"
-            ReferencedContainer = "container:UsingVariables.xcodeproj">
+            BlueprintIdentifier = "71E54D17199D3CDC009FF939"
+            BuildableName = "UsingVariables-Objc.app"
+            BlueprintName = "UsingVariables-Objc"
+            ReferencedContainer = "container:UsingVariables-Objc.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

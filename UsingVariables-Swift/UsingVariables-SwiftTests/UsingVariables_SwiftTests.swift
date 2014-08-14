@@ -1,6 +1,6 @@
 //
-//  UsingVariablesTests.swift
-//  UsingVariablesTests
+//  UsingVariables_SwiftTests.swift
+//  UsingVariables-SwiftTests
 //
 //  Created by Joshua Howland on 8/14/14.
 //  Copyright (c) 2014 DevMountain. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class UsingVariablesTests: XCTestCase {
+class UsingVariables_SwiftTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

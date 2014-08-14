@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  UsingVariables
+//  UsingVariables-Swift
 //
 //  Created by Joshua Howland on 8/14/14.
 //  Copyright (c) 2014 DevMountain. All rights reserved.
@@ -18,8 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         // Insert code here...
         
-        
         return true
     }
+
 }
 
