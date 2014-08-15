@@ -3,6 +3,10 @@ UsingVariables
 
 The second project for iOS pre-course using variables.
 
+### Resources:
+- Read the "[Types & Variables](https://devmounta.in/files/iOS/ios-precourse__02TypesVariables.pdf) intro on DevMounta.in
+- 
+
 ### Step 1: Get the project started on your computer and on GitHub
 - Either create a project locally and push to GitHub
 - Or fork this project and clone it to your computer
