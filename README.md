@@ -7,7 +7,8 @@ The second project for iOS pre-course using variables.
 - Read [Types & Variables](https://devmounta.in/files/iOS/ios-precourse__02TypesVariables.pdf) intro on DevMounta.in
 - Another very good resource is Code with Chris's [Core Programming Concepts](http://codewithchris.com/learn-programming/)
 - For Objective-C visit RyPress's [C Basics](http://rypress.com/tutorials/objective-c/c-basics.html)
-- For Swift visit a very simple intro at [iOS Creator](http://www.ioscreator.com/tutorials/introduction-to-swift-variables-and-constants) or a more detailed introduction at [Tuts+](http://code.tutsplus.com/tutorials/an-introduction-to-swift-part-1--cms-21389)
+- For Swift you should of course read Apple's [documentation](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_449).
+- For Swift there is also a very simple intro at [iOS Creator](http://www.ioscreator.com/tutorials/introduction-to-swift-variables-and-constants) or a more detailed introduction at [Tuts+](http://code.tutsplus.com/tutorials/an-introduction-to-swift-part-1--cms-21389)
 
 ### Step 1: Get the project started on your computer and on GitHub
 - Either create a project locally and push to GitHub
