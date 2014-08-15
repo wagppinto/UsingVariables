@@ -3,7 +3,7 @@ UsingVariables
 
 The second project for iOS pre-course using variables.
 
-### Resources:
+### Resources
 - Read the "[Types & Variables](https://devmounta.in/files/iOS/ios-precourse__02TypesVariables.pdf) intro on DevMounta.in
 - 
 
