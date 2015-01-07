@@ -17,8 +17,13 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
-    // Insert code here...
+    CGFloat height = 71.0;
+    CGFloat weight = 185.0;
+    CGFloat bodyMassIndex;
     
+    bodyMassIndex = (weight / (height * height)) * 703;
+    
+    NSLog(@"The BMI is %f", bodyMassIndex);
     
     return YES;
 }
