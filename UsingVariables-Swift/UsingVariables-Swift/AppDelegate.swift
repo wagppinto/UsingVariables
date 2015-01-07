@@ -16,12 +16,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication!, didFinishLaunchingWithOptions launchOptions: NSDictionary!) -> Bool {
 
-        var height = 71.0;
-        var weight = 108.0;
-        var bodyMassIndex = 0;
+        var height: Float = 71.0;
+        var weight: Float = 108.0;
+        var bodyMassIndex: Float = 0;
         
         bodyMassIndex = (weight / (height * height)) * 703;
         
+        println(bodyMassIndex);
         
         return true
     }
